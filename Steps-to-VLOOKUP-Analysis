@@ -1,0 +1,7 @@
+Used VLOOKUP formula to find the price of a Grande Cafe Mocha.
+Used VLOOKUP to find Category for Product from a different table.
+Used IFERROR to remone NA error and use blank space in places where there was no pre-set category.
+Used COLUMNS function to make the column index number dynamic when adding or deleting columns.
+Used VLOOKUP to return address list and used DATA VALIDATION to create a drop down list of different participant's addresses.
+Used CONDITIONAL FORMATING to highlight row of lookup name. (New Rule/ Manage Rule)
+Used VLOOKUP on excel table to easily make changes and give table ability to auto-expand and update data dyanmically.
